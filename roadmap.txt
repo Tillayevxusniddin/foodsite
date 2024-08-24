@@ -1,0 +1,23 @@
+1) Virtual muhit va kutubxonalarni download qilish---------------
+2) Config projectni yaratish------------------
+3) Applar va Template static directorylarni yaratish-----------
+4) Config sozlamalari va urls.py ni sozlab olish--------------
+5)applardan asosiysiga o'tish-----------------------
+    1)model.py---------------------------------
+    2)services.py yaratib yozish---------------
+    3)forms.py yaratib yozish--------------------
+    4)admin.py yozish----------------------
+    5)views.py yozish--------------------
+    6)views.py yozish---------------------
+    6)urls.py yozish---------------------
+
+
+
+
+#Ertangi ish
+6) applardan keyingisiga otish
+    tepadagi ketma-ketlikda mavjud filelarni toldirish
+
+7) media , static , templates (FRONT_END)
+
+6) python manage.py runserver ---> ishlashini yaxshilab tekshirish ---> inspect
